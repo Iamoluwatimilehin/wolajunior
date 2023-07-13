@@ -1,0 +1,86 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif ;
+   
+}
+  
+.container-fluid{
+    color: white;
+    background-color: black;
+}
+.logo{
+    width: 70px;
+    margin-left: 20px;
+    padding-top: 15px;
+}
+span{  
+    font-size: 23px;
+}
+.dropdown-menu a{
+    color: black !important ;
+}
+.dropdown-menu li{
+   padding: 0;
+    box-shadow: none;
+    text-align: center;
+    font-size: 16px ;
+}
+nav ul{
+    text-decoration: none;
+    padding-right: 20px; 
+    padding-top: 20px;
+}
+nav li{
+   
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 25px;
+    box-shadow: 10px 10px 5px black;
+    
+}
+nav a{ 
+    border: none !important;
+    color: white !important;}
+.one{
+    font-weight: bold;
+    padding: 10px 0;
+    font-size: 20px;
+    
+}
+.first{
+    margin-left: 60px;
+    
+    margin-right: 90px;
+    color: #185770;
+    font-size: 20px;
+}
+.second{
+    color: #5F8C48;
+    
+    font-size: 20px;
+}
+.third{
+    color: #645148;
+    
+    margin-left: 80px;
+    font-size: 20px;
+}
+.footer {
+    background-color: rgb(0, 0, 0);
+      color:#F5F5F5  !important;
+      padding: 10px;
+      font-size: 16px !important;
+     
+    }
+
+.footer li{
+        list-style-type: none;
+      }
+   .footer a{
+          color: #F5F5F5  !important;
+      }
+      .footer h4{
+        font-weight: bold;
+        font-size: 18px;
+        color: #F5F5F5 ;
+      }
+        
